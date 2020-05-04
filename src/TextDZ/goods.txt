@@ -1,0 +1,2 @@
+cherry 20
+apple 30
